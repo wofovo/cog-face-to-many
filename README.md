@@ -1,4 +1,4 @@
-# face-to-many
+# video game
 
 Turn any face into 3D, pixel art, video game, claymation or toy.
 
